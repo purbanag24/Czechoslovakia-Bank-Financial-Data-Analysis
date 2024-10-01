@@ -22,7 +22,7 @@ This fully functional automated Financial Model involved four major steps:
 2. Advance data cleaning in snowflake
 3. storage integration
 4. File format in snowflake and stage creation
-5. Pipe line craetion between snowflake and AWS
+5. Pipe line creation between snowflake and AWS
 6. Notification Alert
 7. Task creation for automation
 
@@ -31,7 +31,7 @@ This fully functional automated Financial Model involved four major steps:
 1.Build connection between Power Bi and snowflake database to extract data and loading all the tables
 2.using Dax query 
 3. Dashboard creating and generating KPI's
-4. GEnerating insights.
+4. Generating insights.
 
 ********__**Ad-hoc Data Analysis:**__********
 
